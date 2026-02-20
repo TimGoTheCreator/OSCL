@@ -1,0 +1,138 @@
+		Open Source Copyleft License (OSCL)
+	Version 1.0, 20 February 2026
+
+Copyright © 2026 Timofey Zakharchuk
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Software and associated documentation files, to use, copy, modify,
+merge, publish, and distribute the Software, provided that all conditions of
+this License are met.
+
+Definitions:
+    “Author” means the original creator of the Software.
+
+    “Contributor” means any person who submits a Modification that is accepted
+    into the Software by the Author or project maintainers.
+
+    “Software” means the code, assets, and other files that are explicitly
+    distributed under this License by the Author.
+
+    “Modification” means any change to the Software, including additions,
+    deletions, or alterations of existing material.
+
+    “Derivative Work” means any work that incorporates or modifies the Software
+    such that the modified portions form a single program or a unified work with
+    the Software. A work that merely links to the Software’s public interfaces,
+    without modifying the Software, is not a Derivative Work.
+
+    “Unified work” means a work in which the Software and other code are
+    combined into a single program such that they cannot reasonably be separated
+    for independent use or distribution.
+
+    “Links to” means dynamic or static linking to the Software’s public
+    interfaces without modifying the Software itself. Linking alone does not
+    create a Derivative Work.
+
+    “Distribution” means making the Software or a Derivative Work available to
+    any third party in any form, including source code, object code, or
+    executable form.
+
+    “Source Form” means the preferred form of the work for making Modifications.
+
+1. Credit
+    Redistribution or Distribution of the Software or any Derivative Work must
+    preserve all existing copyright notices, this License text, and any Author
+    attribution already present in the source files. No additional or subjective
+    forms of attribution are required.
+
+2. Copyright Notice
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+3. No Endorsement
+    Neither the name of the Author nor the names of contributors may be used to
+    endorse or promote products derived from this Software without specific
+    prior written permission.
+
+4. Patent Grant by Author
+    The Author hereby grants a royalty-free, perpetual, worldwide license under
+    any patent claims owned or controlled by the Author that are necessarily
+    infringed by the use, reproduction, Modification, or Distribution of the
+    Software or any Derivative Work, provided such actions comply with this
+    License.
+
+    This patent license terminates automatically if you initiate patent
+    litigation alleging that the Software infringes a patent.
+
+    You may distribute modifications in the form of patches to the original Software,
+    provided that the recipient can apply them to produce a modified work under the terms of this License.
+
+5. Contributor License Grant
+    Each Contributor grants a royalty-free, perpetual, worldwide license under
+    their copyright and any patent claims they own or control that are
+    necessarily infringed by their Contributions, but only to the extent of the
+    changes they contributed.
+
+    This grant does not apply to any code or patents not contributed to the
+    Software.
+
+6. Copyleft: No Surrender of Others’ Freedom
+    a. Any Modification of the Software must be licensed, in its entirety and in
+       Source Form, under this License, version 1.0 or, at the recipient’s
+       option, any later version published by the Author and approved by the
+       Open Source Initiative.
+
+    b. Any Derivative Work, as defined above, must be licensed under this
+       License.
+
+    c. A work that merely links to the Software, uses its public interfaces, or
+       depends on it at runtime, without modifying it, is not a Derivative Work
+       and may be licensed under any terms.
+
+    d. You may distribute object code or executable forms of a Derivative Work
+       provided that the complete corresponding Source Form is made available
+       under the terms of this License.
+
+    e. Mere aggregation of the Software on a storage or distribution medium with
+       separate and independent works that are not combined into a unified work
+       does not create a Derivative Work.
+
+7. Stewardship of Future Versions
+   The Author may designate a steward organization to publish future versions of this License. Any such designation must be made publicly by the Author.
+   A designated steward may publish new versions of this License, but may not modify or republish this version (1.0).
+
+8. Distribution
+    Distribution of the Software in object or executable form must be accompanied by the complete corresponding Source Form
+    or a written offer valid for at least three years to provide the Source Form at no more than a reasonable reproduction cost.
+    The Source Form must be made available via a publicly accessible network server (e.g., Internet download) or equivalent well-publicized means.
+
+9. Compatibility
+    As a special exception, you may distribute Derivative Works of the Software under the terms
+    of any version of the GNU General Public License (GPL) approved by the Open Source Initiative,
+    provided that such distribution complies with all other applicable terms of this License. 
+    This does not imply that GPL-licensed code may be relicensed under this License.
+
+10. Disclaimer of Warranty and Limitation of Liability
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+    “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+    LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+    PURPOSE, AND NON-INFRINGEMENT.
+
+    THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH
+    YOU. SHOULD THE SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
+    NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+    IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+    DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+    OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+    USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+    If applicable law does not allow the full exclusion of liability, this
+    disclaimer shall be enforced to the maximum extent permitted.
+
+This License does not discriminate against any person or group, nor restrict the use of
+the Software in any field of endeavor.
+
+The rights granted under this License apply to all recipients of the Software, without requiring a separate license agreement.
+
+End of License.
